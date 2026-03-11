@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "ラッキー",
+  "base_artist": "Hitsujibungaku",
+  "createdAt": "2026-03-11T17:07:15.057669Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラッキー・ブルート",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_ラッキー・ブルート_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラッキー・ブルート",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_ラッキー・ブルート_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラッキー・ブルート",
+      "artist": "柊キライ",
+      "has_synced": false,
+      "path": "select/03_ラッキー・ブルート_柊キライ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ラッキー",
+      "artist": "Hitsujibungaku",
+      "has_synced": false,
+      "path": "select/04_ラッキー_Hitsujibungaku.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ラッキー",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/05_ラッキー_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ラッキー",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/06_ラッキー_羊文学.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ラッキー☆オーブ",
+      "artist": "emon",
+      "has_synced": true,
+      "path": "select/07_ラッキー☆オーブ_emon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ラッキー",
+      "artist": "Kaneko Ayano",
+      "has_synced": true,
+      "path": "select/08_ラッキー_Kaneko_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ラッキー☆オーブ (feat. 初音ミク)",
+      "artist": "emon(Tes.)",
+      "has_synced": true,
+      "path": "select/09_ラッキー☆オーブ_(feat._初音ミク)_emon(Tes.).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ラヴィン・ユー (ラッキー)",
+      "artist": "サンディ・A・ホーン",
+      "has_synced": true,
+      "path": "select/10_ラヴィン・ユー_(ラッキー)_サンディ・A・ホーン.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ラヴィン・ユー (ラッキー)",
+      "artist": "サンディ・A・ホーン, ユー & ザ・エクスプロージョン・バンド",
+      "has_synced": true,
+      "path": "select/11_ラヴィン・ユー_(ラッキー)_サンディ・A・ホーン,_ユー_&_ザ・エクスプロージョン・バンド.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ラッキー・ブルート - Lucky Bruto",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/12_ラッキー・ブルート_-_Lucky_Bruto_Ado.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ハッピー☆ラッキー・バースデー!",
+      "artist": "水田わさび (ドラえもん), 大原めぐみ (のび太), かかずゆみ (しずか), 木村 昴 (ジャイアン) & 関 智一 (スネ夫)",
+      "has_synced": true,
+      "path": "select/13_ハッピー☆ラッキー・バースデー!_水田わさび_(ドラえもん),_大原めぐみ_(のび太),_かかずゆみ_(しずか),_木村_昴_(ジャイアン)_&_関_智一_(スネ夫).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "【Ado】Lucky Bruto / ラッキー・ブルート",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/14_【Ado】Lucky_Bruto___ラッキー・ブルート_Ado.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ラヴィン・ユー (ラッキー)",
+      "artist": "サンディ・a・ホーン/ユー & ザ・エクスプロージョン・バンド",
+      "has_synced": true,
+      "path": "select/15_ラヴィン・ユー_(ラッキー)_サンディ・a・ホーン_ユー_&_ザ・エクスプロージョン・バンド.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ラッキー☆オーブ",
+      "artist": "emon (Tes.)",
+      "has_synced": true,
+      "path": "select/16_ラッキー☆オーブ_emon_(Tes.).lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ハッピー ラッキー ジェットマシーン",
+      "artist": "横山奈緒 (CV.渡部優衣)",
+      "has_synced": false,
+      "path": "select/17_ハッピー_ラッキー_ジェットマシーン_横山奈緒_(CV.渡部優衣).txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ラッキー☆オーブ (2ToneDisco Remix)",
+      "artist": "emon(Tes.) feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/18_ラッキー☆オーブ_(2ToneDisco_Remix)_emon(Tes.)_feat._初音ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラッキー",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_01_ラッキー_羊文学.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ラッキー",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_02_ラッキー_羊文学.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ラッキー",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_03_ラッキー_羊文学.txt"
+    }
+  ]
+}
